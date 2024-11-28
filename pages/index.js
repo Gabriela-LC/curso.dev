@@ -1,5 +1,5 @@
 function Home(){ //D4 - H maiúsculo que é aconvenção do React para componentes
-    return <h1>huhu</h1>
+    return <h1>Projeto para curso.dev</h1>
 }
 
 export default Home
