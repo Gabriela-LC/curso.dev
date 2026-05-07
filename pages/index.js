@@ -1,6 +1,6 @@
 function Home() {
     //D4 - H maiúsculo que é aconvenção do React para componentes
-    return <h1>Oi Moziiii</h1>;
+    return <h1>Bem-vindo de volta, Mozi!!! 🥰</h1>;
 }
 
 export default Home;
